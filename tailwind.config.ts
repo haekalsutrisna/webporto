@@ -28,7 +28,7 @@ const config: Config = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-        explosion: 'url("/webporto/public/bg-explosion.png")',
+        explosion: 'url("public/bg-explosion.png")',
         circles: 'url("/webporto/public/bg-circles.png")',
         circleStar: 'url("/webporto/public/circle-star.svg")',
         site: 'url("/webporto/public/site-bg.svg")',
